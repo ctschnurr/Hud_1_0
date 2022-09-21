@@ -36,11 +36,11 @@ namespace Hud_v1._0
             Console.WriteLine("");
             Console.WriteLine("Please choose from the following options:");
             Console.WriteLine("");
-            Console.WriteLine("1 - Simulate random damage");
-            Console.WriteLine("2 - Simulate battle won");
-            Console.WriteLine("3 - Add Health");
-            Console.WriteLine("4 - Add a Life");
-            Console.WriteLine("0 - Exit");
+            Console.WriteLine("  1 - Simulate random damage");
+            Console.WriteLine("  2 - Simulate battle won");
+            Console.WriteLine("  3 - Add Health");
+            Console.WriteLine("  4 - Add a Life");
+            Console.WriteLine("  0 - Exit");
             Console.WriteLine("");
             Console.Write("Enter Choice: ");
 
